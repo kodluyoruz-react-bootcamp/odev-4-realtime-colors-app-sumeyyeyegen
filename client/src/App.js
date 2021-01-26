@@ -30,7 +30,7 @@ function App() {
           <strong>Rengi Değiştiren: </strong> {color.changerName}
         </div>
         :
-        <User />
+        <User></User>
       }
     </div>
   )
